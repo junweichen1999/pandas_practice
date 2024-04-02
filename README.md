@@ -4,12 +4,12 @@
 - **資料資訊**: info()
 - **檢查缺失值**: isna()
 
-#### pandas庫:
+#### pandas:
 - **讀取資料**: pd.read_csv()、pd.read_excel()
 - **存取資料**: isna()
 - **合併資料**:
   - concat()
   - merge()
 
-### NumPy庫:
+### NumPy:
 - **欄位相乘**: np.multiply()
